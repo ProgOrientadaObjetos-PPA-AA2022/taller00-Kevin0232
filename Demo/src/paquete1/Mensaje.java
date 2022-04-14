@@ -5,6 +5,9 @@
  */
 package paquete1;
 
+import paquete4.Palabra;
+
+
 /**
  *
  * @author reroes
